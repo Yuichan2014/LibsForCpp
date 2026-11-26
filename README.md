@@ -1,7 +1,7 @@
 # LibsForCpp
 ** Description: Useful libs for C++ used with .h suffix files, license is always MIT**
 
-———————————————————————————————————————————————
+—————————————————————————————————————————————
 
 Before using these libs, read this!
 
@@ -14,3 +14,6 @@ int main() {
     // Call functions
 }
 ```
+
+
+**The documents for using is in planning, but html documentation will be created after all the files completed. And you the developers have to study it by yourself(yourselves). Thanks for every developer! :D**
